@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\APPLICATIONS\RevitAPITraining\RevitAPIFirssApp.dll"</Assembly>
+		<AddInId>A1A2DAF6-7DFB-413C-9A17-83D1D3A94234</AddInId>
+		<FullClassName>RevitAPIFirssApp.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>диаметр</Text>
+	</AddIn>
+</RevitAddIns>
